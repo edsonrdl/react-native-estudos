@@ -1,4 +1,4 @@
-import { StyleSheet, Text, View } from 'react-native';
+import { StyleSheet, Text, View } from 'react-native';//Importar os elementos para usar como img,buttom,view  e text
 
 export default StyleSheet.create({
     container: {
