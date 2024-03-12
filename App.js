@@ -13,8 +13,6 @@ export default function App() {
     <View  style={Style.Text}>
     <Component1/>
     </View>
-    <Text>Teste</Text>
-    {vExibir?<Text>Teact Native</Text>:<Text>__</Text>}
     </View>
   </View>
   );
